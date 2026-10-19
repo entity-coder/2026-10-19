@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+dairy_data/
+build/
+dist/
+*.spec
